@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Checks if a CSS property accepts a specific value",
   "license": "MIT",
-  "repository": "paulmolluzzo/is-valid-css-value",
+  "repository": "https://github.com/paulmolluzzo/is-valid-css-value",
   "author": {
     "name": "Paul Molluzzo",
     "email": "paul@molluzzo.com",
