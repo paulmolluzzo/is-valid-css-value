@@ -1,0 +1,35 @@
+{
+  "name": "is-valid-css-value",
+  "version": "1.0.0",
+  "description": "Checks if a CSS property accepts a specific value",
+  "license": "MIT",
+  "repository": "paulmolluzzo/is-valid-css-value",
+  "author": {
+    "name": "Paul Molluzzo",
+    "email": "paul@molluzzo.com",
+    "url": "paul.molluzzo.com"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "css",
+    "properties"
+  ],
+  "dependencies": {
+    "css-properties-values": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.0"
+  },
+  "xo": {
+    "space": true
+  }
+}
